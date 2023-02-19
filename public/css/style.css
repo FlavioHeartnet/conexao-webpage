@@ -1843,7 +1843,8 @@ a:hover, span:hover {
 }
 
 .navbar .logo {
-  width: 50px;
+  width: 80px;
+  margin-top: 1em;
 }
 
 .nav-scroll {
@@ -7966,7 +7967,7 @@ footer .item .copy-right p a {
   }
   .navbar .logo {
     margin-left: 15px;
-    width: 50px;
+    width: 80px;
   }
   .nav-scroll .navbar-collapse .nav-link,
   .light .navbar-collapse .nav-link {
@@ -8267,7 +8268,8 @@ footer .item .copy-right p a {
     bottom: 15px;
   }
   .navbar .logo {
-    width: 40px;
+    margin-left: 1em;
+    width: 60px;
   }
   .hamenu .menu-links .main-menu > li {
     font-size: 24px;
