@@ -8701,5 +8701,10 @@ footer .item .copy-right p a {
     -webkit-text-stroke: 0px #fff;
   }
 }
+@media screen and (max-width: 380px){
+  p {
+    font-size: 13px;
+  }
+}
 
 /* ====================== [ End Responsive ] ====================== */
