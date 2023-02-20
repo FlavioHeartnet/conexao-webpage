@@ -145,7 +145,7 @@ $(function () {
     var parallaxSlider;
     var parallaxSliderOptions = {
         speed: 1000,
-        autoplay: true,
+        autoplay: false,
         parallax: true,
         loop: true,
 
