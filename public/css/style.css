@@ -130,7 +130,9 @@ a:hover, span:hover {
 .container {
   max-width: 1200px;
 }
-
+.img-inline{
+  width: 60%;
+}
 .custom-font {
   font-family: 'Poppins', sans-serif;
 }
@@ -8702,6 +8704,9 @@ footer .item .copy-right p a {
   }
   p {
     font-size: 13px;
+  }
+  .img-inline{
+    width: 80%;
   }
 }
 
